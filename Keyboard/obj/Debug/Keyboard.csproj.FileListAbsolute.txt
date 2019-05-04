@@ -1,0 +1,7 @@
+E:\12-VS_learn\Keyboard\Keyboard\bin\Debug\Keyboard.exe.config
+E:\12-VS_learn\Keyboard\Keyboard\bin\Debug\Keyboard.exe
+E:\12-VS_learn\Keyboard\Keyboard\bin\Debug\Keyboard.pdb
+E:\12-VS_learn\Keyboard\Keyboard\obj\Debug\Keyboard.csproj.CoreCompileInputs.cache
+E:\12-VS_learn\Keyboard\Keyboard\obj\Debug\Keyboard.exe
+E:\12-VS_learn\Keyboard\Keyboard\obj\Debug\Keyboard.pdb
+E:\12-VS_learn\Keyboard\Keyboard\obj\Debug\Keyboard.csprojAssemblyReference.cache
